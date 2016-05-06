@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Strategic Edge]]></title>
         <description><![CDATA[Strategic Edge]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/strategic-edge/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 06 May 2016 13:29:28 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 06 May 2016 13:33:47 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/strategic-edge/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Security and protection,</p>]]></description>
-            <link>undefinedsecurity-and-protection/index.html</link>
+            <link>https://thegrid.ai/strategic-edge/security-and-protection/index.html</link>
             <guid isPermaLink="false">229604cc-ca88-43c0-b88d-078a610b5474</guid>
-            <pubDate>Fri, 06 May 2016 13:29:09 GMT</pubDate>
+            <pubDate>Fri, 06 May 2016 13:32:18 GMT</pubDate>
         </item>
     </channel>
 </rss>
