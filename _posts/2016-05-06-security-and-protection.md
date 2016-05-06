@@ -5,10 +5,11 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Security and protection,'
-datePublished: '2016-05-06T13:29:09.582Z'
-dateModified: '2016-05-06T13:24:49.508Z'
+datePublished: '2016-05-06T13:32:18.817Z'
+dateModified: '2016-05-06T13:32:12.905Z'
 title: ''
 author: []
+sourcePath: _posts/2016-05-06-security-and-protection.md
 authors: []
 publisher:
   name: null
@@ -16,11 +17,12 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-05-06-security-and-protection.md
 url: security-and-protection/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8e8b9af8-84c5-4d47-9b17-f7cc3396c6ca.jpg)
+
 Security and protection,
 
 preparedness and capacity-strengthening
